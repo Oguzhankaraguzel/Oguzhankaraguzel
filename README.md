@@ -1,4 +1,4 @@
-[MasterHead](https://assets.hongkiat.com/uploads/programming-jokes/joke-coffee-code.jpg)
+![MasterHead](https://assets.hongkiat.com/uploads/programming-jokes/joke-coffee-code.jpg)
 <h1 align="center">Hi 👋, I'm Oğuzhan KARAGÜZEL</h1>
 <h3 align="center">Junior Fullstack .Net Developer from TÜRKİYE</h3>
 
