@@ -1,6 +1,6 @@
 ![MasterHead](https://intellitect.com/wp-content/uploads/2021/03/NET-Essential-C-Sharp-9-banner.png)
 <h1 align="center">Hi 👋, I'm Oğuzhan KARAGÜZEL</h1>
-<h3 align="center">Junior Fullstack .Net Developer from TÜRKİYE</h3>
+<h3 align="center">Fullstack .Net Developer from TÜRKİYE</h3>
 
 - 🌱 I’m currently learning **.Net Framework core, React**
 
